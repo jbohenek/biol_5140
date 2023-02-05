@@ -1,0 +1,414 @@
+total_biomass_g,common_name,species,site,season,year,reach,abundance,mean_depth_cm_sc
+4.5,Central Stoneroller,Campostoma anomalum,Adena,Summer,y1,Lit,2,-0.305756174
+997.1,Creek Chub,Semotilus atromaculatus,Adena,Summer,y1,Lit,84,-0.305756174
+9.4,Western Blacknose Dace,Rhinichthys obtusus,Adena,Summer,y1,Lit,4,-0.305756174
+23.4,Central Stoneroller,Campostoma anomalum,Adena,Summer,y1,Unlit,11,-0.403256361
+420.8,Creek Chub,Semotilus atromaculatus,Adena,Summer,y1,Unlit,97,-0.403256361
+36.8,Western Blacknose Dace,Rhinichthys obtusus,Adena,Summer,y1,Unlit,26,-0.403256361
+521.8,Creek Chub,Semotilus atromaculatus,Bill Moose,Summer,y1,Lit,74,-0.250912319
+87.2,Green Sunfish,Lepomis cyanellus,Bill Moose,Summer,y1,Lit,11,-0.250912319
+36.4,Western Blacknose Dace,Rhinichthys obtusus,Bill Moose,Summer,y1,Lit,31,-0.250912319
+320.5,Creek Chub,Semotilus atromaculatus,Bill Moose,Summer,y1,Unlit,55,0.644870652
+4.1,Green Sunfish,Lepomis cyanellus,Bill Moose,Summer,y1,Unlit,2,0.644870652
+12.2,Western Blacknose Dace,Rhinichthys obtusus,Bill Moose,Summer,y1,Unlit,20,0.644870652
+70.1,Bluegill Sunfish,Lepomis macrochirus,Cosgray,Summer,y1,Lit,1,0.023306958
+78.9,Green Sunfish,Lepomis cyanellus,Cosgray,Summer,y1,Lit,4,0.023306958
+130.7,Green Sunfish,Lepomis cyanellus,Cosgray,Summer,y1,Unlit,6,-0.817632158
+385.7,Bluegill Sunfish,Lepomis macrochirus,Dublin Rec,Summer,y1,Lit,41,0.181744763
+15.2,Bluegill x Green Sunfish,Lepomis macrochirus x cyanellus,Dublin Rec,Summer,y1,Lit,2,0.181744763
+7.2,Creek Chub,Semotilus atromaculatus,Dublin Rec,Summer,y1,Lit,2,0.181744763
+341.6,Green Sunfish,Lepomis cyanellus,Dublin Rec,Summer,y1,Lit,15,0.181744763
+202.1,Largemouth Bass,Micropterus salmoides,Dublin Rec,Summer,y1,Lit,7,0.181744763
+1,Western Mosquitofish,Gambusia affinis,Dublin Rec,Summer,y1,Lit,2,0.181744763
+100.9,Yellow Bullhead,Ameiurus natalis,Dublin Rec,Summer,y1,Lit,6,0.181744763
+332.7,Bluegill Sunfish,Lepomis macrochirus,Dublin Rec,Summer,y1,Unlit,43,-0.525131596
+23.7,Bluegill x Green Sunfish,Lepomis macrochirus x cyanellus,Dublin Rec,Summer,y1,Unlit,3,-0.525131596
+144.6,Creek Chub,Semotilus atromaculatus,Dublin Rec,Summer,y1,Unlit,10,-0.525131596
+215.6,Green Sunfish,Lepomis cyanellus,Dublin Rec,Summer,y1,Unlit,16,-0.525131596
+232.4,Largemouth Bass,Micropterus salmoides,Dublin Rec,Summer,y1,Unlit,18,-0.525131596
+1.8,Orangethroat Darter,Etheostoma spectabile,Dublin Rec,Summer,y1,Unlit,1,-0.525131596
+13.6,Western Mosquitofish,Gambusia affinis,Dublin Rec,Summer,y1,Unlit,26,-0.525131596
+130.3,Yellow Bullhead,Ameiurus natalis,Dublin Rec,Summer,y1,Unlit,13,-0.525131596
+7.8,Bluegill Sunfish,Lepomis macrochirus,Noble,Summer,y1,Lit,2,-0.500756549
+22.8,Central Stoneroller,Campostoma anomalum,Noble,Summer,y1,Lit,2,-0.500756549
+242.8,Creek Chub,Semotilus atromaculatus,Noble,Summer,y1,Lit,7,-0.500756549
+170.2,Green Sunfish,Lepomis cyanellus,Noble,Summer,y1,Lit,10,-0.500756549
+34.4,Western Blacknose Dace,Rhinichthys obtusus,Noble,Summer,y1,Lit,19,-0.500756549
+16.4,White Sucker,Catostomus commersonii,Noble,Summer,y1,Lit,2,-0.500756549
+2.5,Bluegill Sunfish,Lepomis macrochirus,Noble,Summer,y1,Unlit,1,1.248153061
+25.6,Central Stoneroller,Campostoma anomalum,Noble,Summer,y1,Unlit,2,1.248153061
+871.6,Creek Chub,Semotilus atromaculatus,Noble,Summer,y1,Unlit,22,1.248153061
+625.8,Green Sunfish,Lepomis cyanellus,Noble,Summer,y1,Unlit,26,1.248153061
+14.6,Western Blacknose Dace,Rhinichthys obtusus,Noble,Summer,y1,Unlit,6,1.248153061
+403.4,White Sucker,Catostomus commersonii,Noble,Summer,y1,Unlit,11,1.248153061
+12.1,Central Stoneroller,Campostoma anomalum,Palmer,Summer,y1,Lit,2,-0.476381502
+623.8,Creek Chub,Semotilus atromaculatus,Palmer,Summer,y1,Lit,77,-0.476381502
+2.8,Johnny Darter,Etheostoma nigrum,Palmer,Summer,y1,Lit,2,-0.476381502
+135.4,Mottled Sculpin,Cottus bairdii,Palmer,Summer,y1,Lit,59,-0.476381502
+4.2,Rainbow Darter,Etheostoma caeruleum,Palmer,Summer,y1,Lit,2,-0.476381502
+44.5,Western Blacknose Dace,Rhinichthys obtusus,Palmer,Summer,y1,Lit,28,-0.476381502
+21.3,White Sucker,Catostomus commersonii,Palmer,Summer,y1,Lit,2,-0.476381502
+13.2,Central Stoneroller,Campostoma anomalum,Palmer,Summer,y1,Unlit,8,-1.292945571
+232,Creek Chub,Semotilus atromaculatus,Palmer,Summer,y1,Unlit,60,-1.292945571
+1.8,Johnny Darter,Etheostoma nigrum,Palmer,Summer,y1,Unlit,2,-1.292945571
+176.9,Mottled Sculpin,Cottus bairdii,Palmer,Summer,y1,Unlit,62,-1.292945571
+2.4,Rainbow Darter,Etheostoma caeruleum,Palmer,Summer,y1,Unlit,2,-1.292945571
+89.1,Western Blacknose Dace,Rhinichthys obtusus,Palmer,Summer,y1,Unlit,45,-1.292945571
+5.4,White Sucker,Catostomus commersonii,Palmer,Summer,y1,Unlit,2,-1.292945571
+2.4,Yellow Bullhead,Ameiurus natalis,Palmer,Summer,y1,Unlit,1,-1.292945571
+98,Bluegill Sunfish,Lepomis macrochirus,Ritas,Summer,y1,Lit,8,-1.116226481
+93.4,Central Stoneroller,Campostoma anomalum,Ritas,Summer,y1,Lit,17,-1.116226481
+758.2,Creek Chub,Semotilus atromaculatus,Ritas,Summer,y1,Lit,45,-1.116226481
+12.7,Fantail Darter,Etheostoma flabellare,Ritas,Summer,y1,Lit,9,-1.116226481
+71.4,Green Sunfish,Lepomis cyanellus,Ritas,Summer,y1,Lit,5,-1.116226481
+1.8,Johnny Darter,Etheostoma nigrum,Ritas,Summer,y1,Lit,2,-1.116226481
+9.6,Largemouth Bass,Micropterus salmoides,Ritas,Summer,y1,Lit,1,-1.116226481
+25.5,Mottled Sculpin,Cottus bairdii,Ritas,Summer,y1,Lit,7,-1.116226481
+15.4,Rainbow Darter,Etheostoma caeruleum,Ritas,Summer,y1,Lit,8,-1.116226481
+62.3,Striped Shiner,Luxilus chrysocephalus,Ritas,Summer,y1,Lit,6,-1.116226481
+0.5,Western Blacknose Dace,Rhinichthys obtusus,Ritas,Summer,y1,Lit,1,-1.116226481
+7.8,White Sucker,Catostomus commersonii,Ritas,Summer,y1,Lit,2,-1.116226481
+89.4,Central Stoneroller,Campostoma anomalum,Ritas,Summer,y1,Unlit,28,-1.158882813
+116.2,Creek Chub,Semotilus atromaculatus,Ritas,Summer,y1,Unlit,43,-1.158882813
+1.2,Fantail Darter,Etheostoma flabellare,Ritas,Summer,y1,Unlit,3,-1.158882813
+1.5,Greenside Darter,Etheostoma blennioides,Ritas,Summer,y1,Unlit,1,-1.158882813
+8.7,Johnny Darter,Etheostoma nigrum,Ritas,Summer,y1,Unlit,12,-1.158882813
+63.2,Mottled Sculpin,Cottus bairdii,Ritas,Summer,y1,Unlit,20,-1.158882813
+1.2,Rainbow Darter,Etheostoma caeruleum,Ritas,Summer,y1,Unlit,2,-1.158882813
+5,Western Blacknose Dace,Rhinichthys obtusus,Ritas,Summer,y1,Unlit,2,-1.158882813
+2.6,Yellow Bullhead,Ameiurus natalis,Ritas,Summer,y1,Unlit,1,-1.158882813
+3.1,Central Stoneroller,Campostoma anomalum,Sycamore,Summer,y1,Lit,2,-0.80341338
+80.7,Creek Chub,Semotilus atromaculatus,Sycamore,Summer,y1,Lit,77,-0.80341338
+24.1,Western Blacknose Dace,Rhinichthys obtusus,Sycamore,Summer,y1,Lit,27,-0.80341338
+4.4,Central Stoneroller,Campostoma anomalum,Sycamore,Summer,y1,Unlit,3,-0.43372517
+150.4,Creek Chub,Semotilus atromaculatus,Sycamore,Summer,y1,Unlit,36,-0.43372517
+75.7,Western Blacknose Dace,Rhinichthys obtusus,Sycamore,Summer,y1,Unlit,32,-0.43372517
+146.7,Central Stoneroller,Campostoma anomalum,VFW,Summer,y1,Lit,42,-0.537319119
+510.3,Creek Chub,Semotilus atromaculatus,VFW,Summer,y1,Lit,117,-0.537319119
+91,Mottled Sculpin,Cottus bairdii,VFW,Summer,y1,Lit,27,-0.537319119
+105.9,Western Blacknose Dace,Rhinichthys obtusus,VFW,Summer,y1,Lit,62,-0.537319119
+17.4,White Sucker,Catostomus commersonii,VFW,Summer,y1,Lit,4,-0.537319119
+251.4,Central Stoneroller,Campostoma anomalum,VFW,Summer,y1,Unlit,25,-0.464193979
+329.7,Creek Chub,Semotilus atromaculatus,VFW,Summer,y1,Unlit,33,-0.464193979
+49.6,Green Sunfish,Lepomis cyanellus,VFW,Summer,y1,Unlit,3,-0.464193979
+103.8,Mottled Sculpin,Cottus bairdii,VFW,Summer,y1,Unlit,34,-0.464193979
+14.1,Rainbow Darter,Etheostoma caeruleum,VFW,Summer,y1,Unlit,5,-0.464193979
+27.7,Western Blacknose Dace,Rhinichthys obtusus,VFW,Summer,y1,Unlit,11,-0.464193979
+8.4,Central Stoneroller,Campostoma anomalum,Adena,Summer,y2,Lit,2,-0.620600529
+987.8,Creek Chub,Semotilus atromaculatus,Adena,Summer,y2,Lit,66,-0.620600529
+33.8,Green Sunfish,Lepomis cyanellus,Adena,Summer,y2,Lit,1,-0.620600529
+35.4,Western Blacknose Dace,Rhinichthys obtusus,Adena,Summer,y2,Lit,13,-0.620600529
+36.9,Central Stoneroller,Campostoma anomalum,Adena,Summer,y2,Unlit,8,-0.485183602
+853.7,Creek Chub,Semotilus atromaculatus,Adena,Summer,y2,Unlit,84,-0.485183602
+21.6,Western Blacknose Dace,Rhinichthys obtusus,Adena,Summer,y2,Unlit,8,-0.485183602
+6.5,Central Stoneroller,Campostoma anomalum,Bill Moose,Summer,y2,Lit,5,-0.891434383
+711.9,Creek Chub,Semotilus atromaculatus,Bill Moose,Summer,y2,Lit,246,-0.891434383
+119.4,Green Sunfish,Lepomis cyanellus,Bill Moose,Summer,y2,Lit,7,-0.891434383
+108,Western Blacknose Dace,Rhinichthys obtusus,Bill Moose,Summer,y2,Lit,89,-0.891434383
+7,Central Stoneroller,Campostoma anomalum,Bill Moose,Summer,y2,Unlit,8,-0.1195579
+336.5,Creek Chub,Semotilus atromaculatus,Bill Moose,Summer,y2,Unlit,139,-0.1195579
+17.9,Green Sunfish,Lepomis cyanellus,Bill Moose,Summer,y2,Unlit,2,-0.1195579
+32,Western Blacknose Dace,Rhinichthys obtusus,Bill Moose,Summer,y2,Unlit,62,-0.1195579
+20.9,Bluegill Sunfish,Lepomis macrochirus,Cosgray,Summer,y2,Lit,2,1.749195691
+50.7,Green Sunfish,Lepomis cyanellus,Cosgray,Summer,y2,Lit,2,1.749195691
+3.1,Yellow Bullhead,Ameiurus natalis,Cosgray,Summer,y2,Lit,2,1.749195691
+141.7,Green Sunfish,Lepomis cyanellus,Cosgray,Summer,y2,Unlit,8,0.462734886
+353.3,Bluegill Sunfish,Lepomis macrochirus,Dublin Rec,Summer,y2,Lit,76,-0.351459387
+4.3,Bluegill x Green Sunfish,Lepomis macrochirus x cyanellus,Dublin Rec,Summer,y2,Lit,1,-0.351459387
+24.7,Creek Chub,Semotilus atromaculatus,Dublin Rec,Summer,y2,Lit,2,-0.351459387
+430.8,Green Sunfish,Lepomis cyanellus,Dublin Rec,Summer,y2,Lit,33,-0.351459387
+2.4,Orangethroat Darter,Etheostoma spectabile,Dublin Rec,Summer,y2,Lit,1,-0.351459387
+2.3,Western Mosquitofish,Gambusia affinis,Dublin Rec,Summer,y2,Lit,2,-0.351459387
+212.3,Yellow Bullhead,Ameiurus natalis,Dublin Rec,Summer,y2,Lit,10,-0.351459387
+177,Bluegill Sunfish,Lepomis macrochirus,Dublin Rec,Summer,y2,Unlit,46,-0.403256361
+216.6,Creek Chub,Semotilus atromaculatus,Dublin Rec,Summer,y2,Unlit,51,-0.403256361
+145.6,Green Sunfish,Lepomis cyanellus,Dublin Rec,Summer,y2,Unlit,6,-0.403256361
+21.3,Largemouth Bass,Micropterus salmoides,Dublin Rec,Summer,y2,Unlit,7,-0.403256361
+18.6,Pumpkinseed Sunfish,Lepomis gibbosus,Dublin Rec,Summer,y2,Unlit,1,-0.403256361
+5,Western Mosquitofish,Gambusia affinis,Dublin Rec,Summer,y2,Unlit,9,-0.403256361
+123.8,Yellow Bullhead,Ameiurus natalis,Dublin Rec,Summer,y2,Unlit,24,-0.403256361
+119.3,Creek Chub,Semotilus atromaculatus,Grove City,Summer,y2,Lit,129,-1.453414629
+132.4,Creek Chub,Semotilus atromaculatus,Grove City,Summer,y2,Unlit,177,-1.118257735
+12.8,Bluegill Sunfish,Lepomis macrochirus,Noble,Summer,y2,Lit,14,0.039556989
+6.2,Central Stoneroller,Campostoma anomalum,Noble,Summer,y2,Lit,4,0.039556989
+220.1,Creek Chub,Semotilus atromaculatus,Noble,Summer,y2,Lit,16,0.039556989
+40.4,Green Sunfish,Lepomis cyanellus,Noble,Summer,y2,Lit,4,0.039556989
+1.5,Largemouth Bass,Micropterus salmoides,Noble,Summer,y2,Lit,1,0.039556989
+41.3,Western Blacknose Dace,Rhinichthys obtusus,Noble,Summer,y2,Lit,13,0.039556989
+54.3,White Sucker,Catostomus commersonii,Noble,Summer,y2,Lit,3,0.039556989
+13.5,Bluegill Sunfish,Lepomis macrochirus,Noble,Summer,y2,Unlit,16,0.23252611
+3.5,Central Stoneroller,Campostoma anomalum,Noble,Summer,y2,Unlit,1,0.23252611
+225.5,Creek Chub,Semotilus atromaculatus,Noble,Summer,y2,Unlit,15,0.23252611
+88.7,Green Sunfish,Lepomis cyanellus,Noble,Summer,y2,Unlit,6,0.23252611
+15.2,Largemouth Bass,Micropterus salmoides,Noble,Summer,y2,Unlit,2,0.23252611
+28.3,Western Blacknose Dace,Rhinichthys obtusus,Noble,Summer,y2,Unlit,7,0.23252611
+193.8,White Sucker,Catostomus commersonii,Noble,Summer,y2,Unlit,12,0.23252611
+30.9,Central Stoneroller,Campostoma anomalum,Palmer,Summer,y2,Lit,7,-0.769559149
+397.9,Creek Chub,Semotilus atromaculatus,Palmer,Summer,y2,Lit,46,-0.769559149
+5.5,Johnny Darter,Etheostoma nigrum,Palmer,Summer,y2,Lit,4,-0.769559149
+73.2,Mottled Sculpin,Cottus bairdii,Palmer,Summer,y2,Lit,27,-0.769559149
+1.5,Orangethroat Darter,Etheostoma spectabile,Palmer,Summer,y2,Lit,1,-0.769559149
+3.9,Rainbow Darter,Etheostoma caeruleum,Palmer,Summer,y2,Lit,3,-0.769559149
+4.1,Smallmouth Bass,Micropterus dolomieu,Palmer,Summer,y2,Lit,3,-0.769559149
+1,Striped Shiner,Luxilus chrysocephalus,Palmer,Summer,y2,Lit,1,-0.769559149
+50,Western Blacknose Dace,Rhinichthys obtusus,Palmer,Summer,y2,Lit,21,-0.769559149
+4.2,Central Stoneroller,Campostoma anomalum,Palmer,Summer,y2,Unlit,1,-1.43310209
+77.5,Creek Chub,Semotilus atromaculatus,Palmer,Summer,y2,Unlit,12,-1.43310209
+4.2,Johnny Darter,Etheostoma nigrum,Palmer,Summer,y2,Unlit,3,-1.43310209
+64.2,Mottled Sculpin,Cottus bairdii,Palmer,Summer,y2,Unlit,20,-1.43310209
+2.6,Orangethroat Darter,Etheostoma spectabile,Palmer,Summer,y2,Unlit,2,-1.43310209
+2.7,Rainbow Darter,Etheostoma caeruleum,Palmer,Summer,y2,Unlit,2,-1.43310209
+7.7,Smallmouth Bass,Micropterus dolomieu,Palmer,Summer,y2,Unlit,5,-1.43310209
+91.9,Western Blacknose Dace,Rhinichthys obtusus,Palmer,Summer,y2,Unlit,33,-1.43310209
+67.1,Bluegill Sunfish,Lepomis macrochirus,Ritas,Summer,y2,Lit,10,1.938779388
+19.3,Bluegill x Green Sunfish,Lepomis macrochirus x cyanellus,Ritas,Summer,y2,Lit,1,1.938779388
+141.2,Central Stoneroller,Campostoma anomalum,Ritas,Summer,y2,Lit,18,1.938779388
+581.2,Creek Chub,Semotilus atromaculatus,Ritas,Summer,y2,Lit,22,1.938779388
+452.6,Green Sunfish,Lepomis cyanellus,Ritas,Summer,y2,Lit,27,1.938779388
+6.8,Mottled Sculpin,Cottus bairdii,Ritas,Summer,y2,Lit,1,1.938779388
+2.3,Orangethroat Darter,Etheostoma spectabile,Ritas,Summer,y2,Lit,1,1.938779388
+103.5,Striped Shiner,Luxilus chrysocephalus,Ritas,Summer,y2,Lit,6,1.938779388
+191.1,White Sucker,Catostomus commersonii,Ritas,Summer,y2,Lit,5,1.938779388
+24.9,Yellow Bullhead,Ameiurus natalis,Ritas,Summer,y2,Lit,2,1.938779388
+9.3,Central Stoneroller,Campostoma anomalum,Ritas,Summer,y2,Unlit,11,-1.270601778
+42.3,Creek Chub,Semotilus atromaculatus,Ritas,Summer,y2,Unlit,35,-1.270601778
+5.6,Fantail Darter,Etheostoma flabellare,Ritas,Summer,y2,Unlit,4,-1.270601778
+1.7,Johnny Darter,Etheostoma nigrum,Ritas,Summer,y2,Unlit,1,-1.270601778
+3,Largemouth Bass,Micropterus salmoides,Ritas,Summer,y2,Unlit,1,-1.270601778
+19.1,Mottled Sculpin,Cottus bairdii,Ritas,Summer,y2,Unlit,6,-1.270601778
+8,Western Blacknose Dace,Rhinichthys obtusus,Ritas,Summer,y2,Unlit,5,-1.270601778
+3.7,White Sucker,Catostomus commersonii,Ritas,Summer,y2,Unlit,2,-1.270601778
+24.9,Creek Chub,Semotilus atromaculatus,Sycamore,Summer,y2,Lit,24,-0.444558524
+1.7,Goldfish,Carassius auratus,Sycamore,Summer,y2,Lit,1,-0.444558524
+13.6,Western Blacknose Dace,Rhinichthys obtusus,Sycamore,Summer,y2,Lit,14,-0.444558524
+8.5,Bluegill x Green Sunfish,Lepomis macrochirus x cyanellus,Sycamore,Summer,y2,Unlit,1,0.191901032
+20.3,Creek Chub,Semotilus atromaculatus,Sycamore,Summer,y2,Unlit,20,0.191901032
+2.8,Western Blacknose Dace,Rhinichthys obtusus,Sycamore,Summer,y2,Unlit,3,0.191901032
+84,Central Stoneroller,Campostoma anomalum,VFW,Summer,y2,Lit,17,-0.299662412
+302.3,Creek Chub,Semotilus atromaculatus,VFW,Summer,y2,Lit,29,-0.299662412
+2,Fathead Minnow,Pimephales promelas,VFW,Summer,y2,Lit,1,-0.299662412
+39.8,Green Sunfish,Lepomis cyanellus,VFW,Summer,y2,Lit,13,-0.299662412
+1.7,Largemouth Bass,Micropterus salmoides,VFW,Summer,y2,Lit,1,-0.299662412
+2.2,Mottled Sculpin,Cottus bairdii,VFW,Summer,y2,Lit,1,-0.299662412
+2.5,Rainbow Darter,Etheostoma caeruleum,VFW,Summer,y2,Lit,1,-0.299662412
+22.9,Western Blacknose Dace,Rhinichthys obtusus,VFW,Summer,y2,Lit,9,-0.299662412
+3.1,White Sucker,Catostomus commersonii,VFW,Summer,y2,Lit,1,-0.299662412
+165.9,Central Stoneroller,Campostoma anomalum,VFW,Summer,y2,Unlit,18,-1.02685131
+245,Creek Chub,Semotilus atromaculatus,VFW,Summer,y2,Unlit,20,-1.02685131
+24.6,Green Sunfish,Lepomis cyanellus,VFW,Summer,y2,Unlit,2,-1.02685131
+4.2,Greenside Darter,Etheostoma blennioides,VFW,Summer,y2,Unlit,1,-1.02685131
+6.2,Largemouth Bass,Micropterus salmoides,VFW,Summer,y2,Unlit,2,-1.02685131
+26.9,Mottled Sculpin,Cottus bairdii,VFW,Summer,y2,Unlit,8,-1.02685131
+3.1,Rainbow Darter,Etheostoma caeruleum,VFW,Summer,y2,Unlit,1,-1.02685131
+9,Western Blacknose Dace,Rhinichthys obtusus,VFW,Summer,y2,Unlit,3,-1.02685131
+4.2,Central Stoneroller,Campostoma anomalum,Adena,Winter,y1,Lit,2,-1.097945196
+115.98,Creek Chub,Semotilus atromaculatus,Adena,Winter,y1,Lit,17,-1.097945196
+11.5,Central Stoneroller,Campostoma anomalum,Adena,Winter,y1,Unlit,5,-0.133099592
+362.8,Creek Chub,Semotilus atromaculatus,Adena,Winter,y1,Unlit,48,-0.133099592
+21.4,Western Blacknose Dace,Rhinichthys obtusus,Adena,Winter,y1,Unlit,12,-0.133099592
+467.4,Creek Chub,Semotilus atromaculatus,Bill Moose,Winter,y1,Lit,77,-0.732319494
+1.6,Green Sunfish,Lepomis cyanellus,Bill Moose,Winter,y1,Lit,2,-0.732319494
+15,Western Blacknose Dace,Rhinichthys obtusus,Bill Moose,Winter,y1,Lit,14,-0.732319494
+89.5,Creek Chub,Semotilus atromaculatus,Bill Moose,Winter,y1,Unlit,22,-0.508881564
+2.5,Green Sunfish,Lepomis cyanellus,Bill Moose,Winter,y1,Unlit,1,-0.508881564
+16.8,Bluegill Sunfish,Lepomis macrochirus,Cosgray,Winter,y1,Lit,7,-0.214349748
+28.4,Green Sunfish,Lepomis cyanellus,Cosgray,Winter,y1,Lit,1,-0.214349748
+2.8,Yellow Bullhead,Ameiurus natalis,Cosgray,Winter,y1,Lit,2,-0.214349748
+15.2,Bluegill x Green Sunfish,Lepomis macrochirus x cyanellus,Cosgray,Winter,y1,Unlit,1,-0.275287366
+13,Green Sunfish,Lepomis cyanellus,Cosgray,Winter,y1,Unlit,2,-0.275287366
+20.9,Bluegill Sunfish,Lepomis macrochirus,Dublin Rec,Winter,y1,Lit,4,1.329403218
+2,Bluegill x Green Sunfish,Lepomis macrochirus x cyanellus,Dublin Rec,Winter,y1,Lit,1,1.329403218
+107.3,Creek Chub,Semotilus atromaculatus,Dublin Rec,Winter,y1,Lit,5,1.329403218
+27,Green Sunfish,Lepomis cyanellus,Dublin Rec,Winter,y1,Lit,4,1.329403218
+149,Largemouth Bass,Micropterus salmoides,Dublin Rec,Winter,y1,Lit,3,1.329403218
+18,Pumpkinseed Sunfish,Lepomis gibbosus,Dublin Rec,Winter,y1,Lit,1,1.329403218
+6.5,Bluegill Sunfish,Lepomis macrochirus,Dublin Rec,Winter,y1,Unlit,1,0.090338337
+17.8,Bluegill x Green Sunfish,Lepomis macrochirus x cyanellus,Dublin Rec,Winter,y1,Unlit,3,0.090338337
+153.7,Creek Chub,Semotilus atromaculatus,Dublin Rec,Winter,y1,Unlit,12,0.090338337
+1.6,Fathead Minnow,Pimephales promelas,Dublin Rec,Winter,y1,Unlit,1,0.090338337
+12.6,Green Sunfish,Lepomis cyanellus,Dublin Rec,Winter,y1,Unlit,3,0.090338337
+35,Largemouth Bass,Micropterus salmoides,Dublin Rec,Winter,y1,Unlit,3,0.090338337
+3.3,Orangethroat Darter,Etheostoma spectabile,Dublin Rec,Winter,y1,Unlit,1,0.090338337
+6.1,Yellow Bullhead,Ameiurus natalis,Dublin Rec,Winter,y1,Unlit,1,0.090338337
+10,Creek Chub,Semotilus atromaculatus,Grove City,Winter,y1,Lit,1,0.618464352
+16.3,Creek Chub,Semotilus atromaculatus,Grove City,Winter,y1,Unlit,5,1.116121558
+1.5,Bluegill Sunfish,Lepomis macrochirus,Noble,Winter,y1,Lit,1,-0.701850685
+155,Creek Chub,Semotilus atromaculatus,Noble,Winter,y1,Lit,4,-0.701850685
+176,Green Sunfish,Lepomis cyanellus,Noble,Winter,y1,Lit,5,-0.701850685
+10.4,Western Blacknose Dace,Rhinichthys obtusus,Noble,Winter,y1,Lit,4,-0.701850685
+16,Central Stoneroller,Campostoma anomalum,Noble,Winter,y1,Unlit,1,0.262994919
+247.2,Creek Chub,Semotilus atromaculatus,Noble,Winter,y1,Unlit,14,0.262994919
+180,Green Sunfish,Lepomis cyanellus,Noble,Winter,y1,Unlit,11,0.262994919
+24.3,Largemouth Bass,Micropterus salmoides,Noble,Winter,y1,Unlit,3,0.262994919
+7.5,Western Blacknose Dace,Rhinichthys obtusus,Noble,Winter,y1,Unlit,3,0.262994919
+356,White Sucker,Catostomus commersonii,Noble,Winter,y1,Unlit,10,0.262994919
+3.2,Bluegill Sunfish,Lepomis macrochirus,Palmer,Winter,y1,Lit,1,-0.17372467
+180.3,Central Stoneroller,Campostoma anomalum,Palmer,Winter,y1,Lit,31,-0.17372467
+205.8,Creek Chub,Semotilus atromaculatus,Palmer,Winter,y1,Lit,39,-0.17372467
+41.7,Johnny Darter,Etheostoma nigrum,Palmer,Winter,y1,Lit,6,-0.17372467
+82,Mottled Sculpin,Cottus bairdii,Palmer,Winter,y1,Lit,28,-0.17372467
+11.3,Rainbow Darter,Etheostoma caeruleum,Palmer,Winter,y1,Lit,5,-0.17372467
+75.8,Western Blacknose Dace,Rhinichthys obtusus,Palmer,Winter,y1,Lit,27,-0.17372467
+11,Yellow Bullhead,Ameiurus natalis,Palmer,Winter,y1,Lit,1,-0.17372467
+182.9,Central Stoneroller,Campostoma anomalum,Palmer,Winter,y1,Unlit,25,-0.833882189
+169,Creek Chub,Semotilus atromaculatus,Palmer,Winter,y1,Unlit,24,-0.833882189
+9.1,Green Sunfish,Lepomis cyanellus,Palmer,Winter,y1,Unlit,1,-0.833882189
+47.7,Mottled Sculpin,Cottus bairdii,Palmer,Winter,y1,Unlit,12,-0.833882189
+4.2,Rainbow Darter,Etheostoma caeruleum,Palmer,Winter,y1,Unlit,2,-0.833882189
+38.3,Western Blacknose Dace,Rhinichthys obtusus,Palmer,Winter,y1,Unlit,17,-0.833882189
+23.1,White Sucker,Catostomus commersonii,Palmer,Winter,y1,Unlit,4,-0.833882189
+226.4,Central Stoneroller,Campostoma anomalum,Ritas,Winter,y1,Lit,46,2.060654622
+196.8,Creek Chub,Semotilus atromaculatus,Ritas,Winter,y1,Lit,26,2.060654622
+8.7,Fantail Darter,Etheostoma flabellare,Ritas,Winter,y1,Lit,11,2.060654622
+6.2,Green Sunfish,Lepomis cyanellus,Ritas,Winter,y1,Lit,1,2.060654622
+6.4,Johnny Darter,Etheostoma nigrum,Ritas,Winter,y1,Lit,7,2.060654622
+2.3,Largemouth Bass,Micropterus salmoides,Ritas,Winter,y1,Lit,1,2.060654622
+29,Mottled Sculpin,Cottus bairdii,Ritas,Winter,y1,Lit,6,2.060654622
+41,Northern Hogsucker,Hypentelium nigricans,Ritas,Winter,y1,Lit,2,2.060654622
+2.9,Rosyface Shiner,Notropis rubellus,Ritas,Winter,y1,Lit,1,2.060654622
+11.6,Spotfin Shiner,Cyprinella spiloptera,Ritas,Winter,y1,Lit,6,2.060654622
+66.7,Striped Shiner,Luxilus chrysocephalus,Ritas,Winter,y1,Lit,10,2.060654622
+17.4,Western Blacknose Dace,Rhinichthys obtusus,Ritas,Winter,y1,Lit,5,2.060654622
+4.3,White Sucker,Catostomus commersonii,Ritas,Winter,y1,Lit,1,2.060654622
+21,Yellow Bullhead,Ameiurus natalis,Ritas,Winter,y1,Lit,1,2.060654622
+114.5,Central Stoneroller,Campostoma anomalum,Ritas,Winter,y1,Unlit,28,-0.762788302
+42.6,Creek Chub,Semotilus atromaculatus,Ritas,Winter,y1,Unlit,14,-0.762788302
+1.6,Fantail Darter,Etheostoma flabellare,Ritas,Winter,y1,Unlit,1,-0.762788302
+30,Mottled Sculpin,Cottus bairdii,Ritas,Winter,y1,Unlit,7,-0.762788302
+17.2,Rainbow Darter,Etheostoma caeruleum,Ritas,Winter,y1,Unlit,8,-0.762788302
+7.2,Western Blacknose Dace,Rhinichthys obtusus,Sycamore,Winter,y1,Lit,2,1.024715132
+70.3,Central Stoneroller,Campostoma anomalum,VFW,Winter,y1,Lit,14,0.689558238
+439,Creek Chub,Semotilus atromaculatus,VFW,Winter,y1,Lit,43,0.689558238
+3.1,Fathead Minnow,Pimephales promelas,VFW,Winter,y1,Lit,1,0.689558238
+102.2,Mottled Sculpin,Cottus bairdii,VFW,Winter,y1,Lit,55,0.689558238
+11,Northern Hogsucker,Hypentelium nigricans,VFW,Winter,y1,Lit,1,0.689558238
+9.2,Rainbow Darter,Etheostoma caeruleum,VFW,Winter,y1,Lit,3,0.689558238
+61.5,Western Blacknose Dace,Rhinichthys obtusus,VFW,Winter,y1,Lit,28,0.689558238
+14.2,White Sucker,Catostomus commersonii,VFW,Winter,y1,Lit,2,0.689558238
+439.8,Central Stoneroller,Campostoma anomalum,VFW,Winter,y1,Unlit,41,0.313776266
+88.3,Creek Chub,Semotilus atromaculatus,VFW,Winter,y1,Unlit,9,0.313776266
+78.5,Mottled Sculpin,Cottus bairdii,VFW,Winter,y1,Unlit,21,0.313776266
+16.3,Rainbow Darter,Etheostoma caeruleum,VFW,Winter,y1,Unlit,6,0.313776266
+12.6,Central Stoneroller,Campostoma anomalum,Adena,Winter,y2,Lit,2,-1.097945196
+231.3,Creek Chub,Semotilus atromaculatus,Adena,Winter,y2,Lit,27,-1.097945196
+0.9,Western Blacknose Dace,Rhinichthys obtusus,Adena,Winter,y2,Lit,1,-1.097945196
+16.3,Central Stoneroller,Campostoma anomalum,Adena,Winter,y2,Unlit,2,-0.133099592
+556.7,Creek Chub,Semotilus atromaculatus,Adena,Winter,y2,Unlit,52,-0.133099592
+11.5,Western Blacknose Dace,Rhinichthys obtusus,Adena,Winter,y2,Unlit,11,-0.133099592
+2.6,Central Stoneroller,Campostoma anomalum,Bill Moose,Winter,y2,Lit,1,-0.732319494
+34.8,Creek Chub,Semotilus atromaculatus,Bill Moose,Winter,y2,Lit,15,-0.732319494
+13.3,Western Blacknose Dace,Rhinichthys obtusus,Bill Moose,Winter,y2,Lit,4,-0.732319494
+2.1,Central Stoneroller,Campostoma anomalum,Bill Moose,Winter,y2,Unlit,1,-0.508881564
+15.6,Creek Chub,Semotilus atromaculatus,Bill Moose,Winter,y2,Unlit,4,-0.508881564
+8.1,Green Sunfish,Lepomis cyanellus,Bill Moose,Winter,y2,Unlit,1,-0.508881564
+15.1,Western Blacknose Dace,Rhinichthys obtusus,Bill Moose,Winter,y2,Unlit,9,-0.508881564
+13,Bluegill x Green Sunfish,Lepomis macrochirus x cyanellus,Cosgray,Winter,y2,Lit,1,-0.214349748
+264.9,Green Sunfish,Lepomis cyanellus,Cosgray,Winter,y2,Lit,15,-0.214349748
+1.6,Yellow Bullhead,Ameiurus natalis,Cosgray,Winter,y2,Lit,1,-0.214349748
+26.2,Bluegill x Green Sunfish,Lepomis macrochirus x cyanellus,Cosgray,Winter,y2,Unlit,1,-0.275287366
+94.6,Green Sunfish,Lepomis cyanellus,Cosgray,Winter,y2,Unlit,9,-0.275287366
+237.5,Bluegill Sunfish,Lepomis macrochirus,Dublin Rec,Winter,y2,Lit,37,1.329403218
+38,Bluegill x Green Sunfish,Lepomis macrochirus x cyanellus,Dublin Rec,Winter,y2,Lit,1,1.329403218
+85.6,Creek Chub,Semotilus atromaculatus,Dublin Rec,Winter,y2,Lit,11,1.329403218
+139.2,Green Sunfish,Lepomis cyanellus,Dublin Rec,Winter,y2,Lit,7,1.329403218
+28.4,Largemouth Bass,Micropterus salmoides,Dublin Rec,Winter,y2,Lit,3,1.329403218
+27.3,Bluegill Sunfish,Lepomis macrochirus,Dublin Rec,Winter,y2,Unlit,4,0.090338337
+20.3,Bluegill x Green Sunfish,Lepomis macrochirus x cyanellus,Dublin Rec,Winter,y2,Unlit,2,0.090338337
+108.3,Creek Chub,Semotilus atromaculatus,Dublin Rec,Winter,y2,Unlit,26,0.090338337
+38.4,Green Sunfish,Lepomis cyanellus,Dublin Rec,Winter,y2,Unlit,5,0.090338337
+27.6,Largemouth Bass,Micropterus salmoides,Dublin Rec,Winter,y2,Unlit,4,0.090338337
+2.5,Orangethroat Darter,Etheostoma spectabile,Dublin Rec,Winter,y2,Unlit,1,0.090338337
+1.2,Western Mosquitofish,Gambusia affinis,Dublin Rec,Winter,y2,Unlit,1,0.090338337
+51.6,Yellow Bullhead,Ameiurus natalis,Dublin Rec,Winter,y2,Unlit,5,0.090338337
+32.5,Creek Chub,Semotilus atromaculatus,Grove City,Winter,y2,Lit,24,0.618464352
+30.3,Creek Chub,Semotilus atromaculatus,Grove City,Winter,y2,Unlit,25,1.116121558
+3.2,Central Stoneroller,Campostoma anomalum,Noble,Winter,y2,Lit,1,-0.701850685
+133.8,Creek Chub,Semotilus atromaculatus,Noble,Winter,y2,Lit,12,-0.701850685
+23.9,Western Blacknose Dace,Rhinichthys obtusus,Noble,Winter,y2,Lit,8,-0.701850685
+69.1,White Sucker,Catostomus commersonii,Noble,Winter,y2,Lit,1,-0.701850685
+22.5,Bluegill Sunfish,Lepomis macrochirus,Noble,Winter,y2,Unlit,2,0.262994919
+69.8,Central Stoneroller,Campostoma anomalum,Noble,Winter,y2,Unlit,11,0.262994919
+439.9,Creek Chub,Semotilus atromaculatus,Noble,Winter,y2,Unlit,37,0.262994919
+61.2,Green Sunfish,Lepomis cyanellus,Noble,Winter,y2,Unlit,2,0.262994919
+30.4,Western Blacknose Dace,Rhinichthys obtusus,Noble,Winter,y2,Unlit,8,0.262994919
+115.1,White Sucker,Catostomus commersonii,Noble,Winter,y2,Unlit,2,0.262994919
+356.6,Central Stoneroller,Campostoma anomalum,Palmer,Winter,y2,Lit,46,-0.17372467
+199.5,Creek Chub,Semotilus atromaculatus,Palmer,Winter,y2,Lit,33,-0.17372467
+5.1,Johnny Darter,Etheostoma nigrum,Palmer,Winter,y2,Lit,3,-0.17372467
+157.8,Mottled Sculpin,Cottus bairdii,Palmer,Winter,y2,Lit,65,-0.17372467
+4.4,Rainbow Darter,Etheostoma caeruleum,Palmer,Winter,y2,Lit,2,-0.17372467
+1.2,Spotfin Shiner,Cyprinella spiloptera,Palmer,Winter,y2,Lit,1,-0.17372467
+20.8,Striped Shiner,Luxilus chrysocephalus,Palmer,Winter,y2,Lit,13,-0.17372467
+110.8,Western Blacknose Dace,Rhinichthys obtusus,Palmer,Winter,y2,Lit,33,-0.17372467
+8.8,Bluegill Sunfish,Lepomis macrochirus,Palmer,Winter,y2,Unlit,1,-0.833882189
+148.2,Central Stoneroller,Campostoma anomalum,Palmer,Winter,y2,Unlit,19,-0.833882189
+45.5,Creek Chub,Semotilus atromaculatus,Palmer,Winter,y2,Unlit,14,-0.833882189
+8.4,Johnny Darter,Etheostoma nigrum,Palmer,Winter,y2,Unlit,6,-0.833882189
+263.2,Mottled Sculpin,Cottus bairdii,Palmer,Winter,y2,Unlit,81,-0.833882189
+0.7,Orangethroat Darter,Etheostoma spectabile,Palmer,Winter,y2,Unlit,1,-0.833882189
+7.2,Rainbow Darter,Etheostoma caeruleum,Palmer,Winter,y2,Unlit,3,-0.833882189
+11.6,Smallmouth Bass,Micropterus dolomieu,Palmer,Winter,y2,Unlit,5,-0.833882189
+4,Spotfin Shiner,Cyprinella spiloptera,Palmer,Winter,y2,Unlit,2,-0.833882189
+66.2,Striped Shiner,Luxilus chrysocephalus,Palmer,Winter,y2,Unlit,45,-0.833882189
+69.6,Western Blacknose Dace,Rhinichthys obtusus,Palmer,Winter,y2,Unlit,21,-0.833882189
+6.2,White Sucker,Catostomus commersonii,Palmer,Winter,y2,Unlit,1,-0.833882189
+206.8,Bluegill Sunfish,Lepomis macrochirus,Ritas,Winter,y2,Lit,46,2.060654622
+19,Bluegill x Green Sunfish,Lepomis macrochirus x cyanellus,Ritas,Winter,y2,Lit,1,2.060654622
+76.3,Bluntnose Minnow,Pimephales notatus,Ritas,Winter,y2,Lit,28,2.060654622
+223.5,Central Stoneroller,Campostoma anomalum,Ritas,Winter,y2,Lit,24,2.060654622
+737.3,Creek Chub,Semotilus atromaculatus,Ritas,Winter,y2,Lit,43,2.060654622
+7.2,Fantail Darter,Etheostoma flabellare,Ritas,Winter,y2,Lit,5,2.060654622
+10.8,Golden Shiner,Notemigonus crysoleucas,Ritas,Winter,y2,Lit,1,2.060654622
+69.8,Green Sunfish,Lepomis cyanellus,Ritas,Winter,y2,Lit,9,2.060654622
+5.5,Johnny Darter,Etheostoma nigrum,Ritas,Winter,y2,Lit,6,2.060654622
+3.2,Mimic Shiner,Notropis volucellus,Ritas,Winter,y2,Lit,2,2.060654622
+32.2,Mottled Sculpin,Cottus bairdii,Ritas,Winter,y2,Lit,5,2.060654622
+15,Northern Hogsucker,Hypentelium nigricans,Ritas,Winter,y2,Lit,3,2.060654622
+18,Rainbow Darter,Etheostoma caeruleum,Ritas,Winter,y2,Lit,12,2.060654622
+2.3,Rock Bass,Ambloplites rupestris,Ritas,Winter,y2,Lit,2,2.060654622
+10,Rosyface Shiner,Notropis rubellus,Ritas,Winter,y2,Lit,7,2.060654622
+1.2,Sand Shiner,Notropis stramineus,Ritas,Winter,y2,Lit,1,2.060654622
+10.6,Silver Shiner,Notropis photogenis,Ritas,Winter,y2,Lit,7,2.060654622
+120.62,Spotfin Shiner,Cyprinella spiloptera,Ritas,Winter,y2,Lit,70,2.060654622
+246.4,Striped Shiner,Luxilus chrysocephalus,Ritas,Winter,y2,Lit,55,2.060654622
+1.8,Western Blacknose Dace,Rhinichthys obtusus,Ritas,Winter,y2,Lit,1,2.060654622
+122.6,White Sucker,Catostomus commersonii,Ritas,Winter,y2,Lit,8,2.060654622
+15.1,Yellow Bullhead,Ameiurus natalis,Ritas,Winter,y2,Lit,1,2.060654622
+80.7,Central Stoneroller,Campostoma anomalum,Ritas,Winter,y2,Unlit,29,-0.762788302
+99.07,Creek Chub,Semotilus atromaculatus,Ritas,Winter,y2,Unlit,43,-0.762788302
+6.2,Fantail Darter,Etheostoma flabellare,Ritas,Winter,y2,Unlit,6,-0.762788302
+3.9,Johnny Darter,Etheostoma nigrum,Ritas,Winter,y2,Unlit,4,-0.762788302
+37.8,Mottled Sculpin,Cottus bairdii,Ritas,Winter,y2,Unlit,21,-0.762788302
+49.8,Northern Hogsucker,Hypentelium nigricans,Ritas,Winter,y2,Unlit,4,-0.762788302
+12.6,Rainbow Darter,Etheostoma caeruleum,Ritas,Winter,y2,Unlit,7,-0.762788302
+16,Spotfin Shiner,Cyprinella spiloptera,Ritas,Winter,y2,Unlit,9,-0.762788302
+2.4,Striped Shiner,Luxilus chrysocephalus,Ritas,Winter,y2,Unlit,3,-0.762788302
+14.2,Western Blacknose Dace,Rhinichthys obtusus,Ritas,Winter,y2,Unlit,7,-0.762788302
+41,Creek Chub,Semotilus atromaculatus,Sycamore,Winter,y2,Lit,13,1.024715132
+13.5,Western Blacknose Dace,Rhinichthys obtusus,Sycamore,Winter,y2,Lit,19,1.024715132
+29.4,Bluegill x Green Sunfish,Lepomis macrochirus x cyanellus,Sycamore,Winter,y2,Unlit,1,1.827060424
+74.5,Creek Chub,Semotilus atromaculatus,Sycamore,Winter,y2,Unlit,45,1.827060424
+6.2,Fathead Minnow,Pimephales promelas,Sycamore,Winter,y2,Unlit,5,1.827060424
+1.2,Green Sunfish,Lepomis cyanellus,Sycamore,Winter,y2,Unlit,1,1.827060424
+6.5,Western Blacknose Dace,Rhinichthys obtusus,Sycamore,Winter,y2,Unlit,11,1.827060424
+3.3,Bluegill Sunfish,Lepomis macrochirus,VFW,Winter,y2,Lit,1,0.689558238
+88.1,Central Stoneroller,Campostoma anomalum,VFW,Winter,y2,Lit,35,0.689558238
+179.4,Creek Chub,Semotilus atromaculatus,VFW,Winter,y2,Lit,24,0.689558238
+3.6,Fathead Minnow,Pimephales promelas,VFW,Winter,y2,Lit,1,0.689558238
+24.4,Green Sunfish,Lepomis cyanellus,VFW,Winter,y2,Lit,5,0.689558238
+2.6,Johnny Darter,Etheostoma nigrum,VFW,Winter,y2,Lit,1,0.689558238
+102.4,Mottled Sculpin,Cottus bairdii,VFW,Winter,y2,Lit,36,0.689558238
+147.8,Northern Hogsucker,Hypentelium nigricans,VFW,Winter,y2,Lit,4,0.689558238
+11.1,Rainbow Darter,Etheostoma caeruleum,VFW,Winter,y2,Lit,5,0.689558238
+2,Smallmouth Bass,Micropterus dolomieu,VFW,Winter,y2,Lit,1,0.689558238
+4.5,Spotfin Shiner,Cyprinella spiloptera,VFW,Winter,y2,Lit,2,0.689558238
+52.9,Striped Shiner,Luxilus chrysocephalus,VFW,Winter,y2,Lit,34,0.689558238
+38.5,Western Blacknose Dace,Rhinichthys obtusus,VFW,Winter,y2,Lit,15,0.689558238
+17.5,White Sucker,Catostomus commersonii,VFW,Winter,y2,Lit,5,0.689558238
+405,Central Stoneroller,Campostoma anomalum,VFW,Winter,y2,Unlit,36,0.313776266
+71.1,Creek Chub,Semotilus atromaculatus,VFW,Winter,y2,Unlit,8,0.313776266
+35.2,Green Sunfish,Lepomis cyanellus,VFW,Winter,y2,Unlit,1,0.313776266
+21.5,Mottled Sculpin,Cottus bairdii,VFW,Winter,y2,Unlit,6,0.313776266
+6.2,Rainbow Darter,Etheostoma caeruleum,VFW,Winter,y2,Unlit,3,0.313776266
+4.3,Spotfin Shiner,Cyprinella spiloptera,VFW,Winter,y2,Unlit,1,0.313776266
+7.5,Western Blacknose Dace,Rhinichthys obtusus,VFW,Winter,y2,Unlit,2,0.313776266
