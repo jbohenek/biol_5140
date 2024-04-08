@@ -1,0 +1,63 @@
+Behavior,SVL,Weight,Condition,Age (in years)
+Satellite,49,6.1,-0.001,5
+Satellite,55,9.2,0.000,5
+Calling Host,59,9.1,-0.002,2
+Calling Host,60,10.7,-0.001,4
+Satellite,48,5.7,-0.002,3
+Calling Host,55,10.2,0.001,3
+Calling Host,54,11.4,0.003,6
+Satellite,44,5.0,-0.001,5
+Calling Host,50,9.2,0.003,3
+Calling Host,56,11.5,0.002,7
+Satellite,49,9.3,0.004,4
+Calling Host,59,12.0,0.001,1
+Satellite,46,5.9,0.004,1
+Calling Host,47,6.7,0.001,4
+Satellite,38,3.5,-0.001,4
+Calling Host,45,10.1,0.009,3
+Satellite,51,8.3,0.001,3
+Calling Host,58,11.9,-0.002,4
+Satellite,44,4.6,-0.002,3
+Calling Host,43,5.7,0.002,2
+Calling Host,48,7.5,0.002,3
+Satellite,42,4.2,-0.001,1
+Satellite,44,5.4,0.000,2
+Satellite,47,4.8,-0.003,2
+Calling Host,51,7.5,0.000,2
+Calling Host,55,10.3,0.001,4
+Calling Host,56,9.9,0.000,4
+Calling Host,54,9.7,0.001,2
+Satellite,49,7.9,0.002,2
+Calling Host,58,13.4,0.003,4
+Satellite,48,6.4,0.000,3
+Satellite,45,6.0,0.001,2
+Calling Host,54,12.3,0.005,2
+Calling Host,54,8.5,0.000,2
+Satellite,42,4.2,-0.001,2
+Satellite,56,12.1,0.003,3
+Calling Host,56,10.9,0.002,4
+Satellite,48,5.3,-0.003,1
+Calling Host,51,7.7,0.000,5
+Satellite,42,5.7,0.003,3
+Satellite,49,4.5,-0.005,5
+Calling Host,62,11.3,-0.001,5
+Calling Host,59,10.1,-0.001,2
+Satellite,48,5.4,-0.002,3
+Calling Host,49,8.1,0.002,2
+Satellite,43,5.5,0.001,3
+Satellite,50,6.3,-0.002,3
+Calling Host,53,6.7,-0.003,3
+Calling Host,57,10.9,0.001,3
+Satellite,50,6.7,-0.001,3
+Satellite,49,5.2,-0.003,2
+Calling Host,49,7.1,0.000,3
+Satellite,47,4.7,-0.003,4
+Calling Host,61,12.0,0.000,3
+Satellite,50,5.5,-0.003,3
+Satellite,47,6.5,0.001,1
+Calling Host,53,7.7,-0.001,5
+Satellite,60,11.7,0.000,3
+Calling Host,57,7.7,-0.003,3
+Calling Host,52,7.3,-0.001,3
+Satellite,55,7.1,-0.003,2
+Satellite,41,3.9,-0.002,2
