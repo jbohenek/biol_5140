@@ -1,4 +1,4 @@
-Behavior,SVL,Weight,Condition,Age (in years)
+behavior,svl,weight_g,condition,age_years
 Satellite,49,6.1,-0.001,5
 Satellite,55,9.2,0.000,5
 Calling Host,59,9.1,-0.002,2
